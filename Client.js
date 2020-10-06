@@ -7,7 +7,7 @@ import * as pkt from "./packet.js";
 
 import * as dt from "./data_types.js";
 
-export class Client extends WebSocket {
+class Client extends WebSocket {
     /*
     {
         "server_ip": "127.0.0.1",
@@ -204,3 +204,5 @@ export class Client extends WebSocket {
         }
     }
 }
+
+export { Client };
