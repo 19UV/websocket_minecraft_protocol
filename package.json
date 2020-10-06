@@ -1,0 +1,9 @@
+{
+  "name": "websocket_minecraft_protocol",
+  "version": "1.0.0",
+  "description": "A library which allows browser-side Javascript to connect with Minecraft servers over websocket.",
+  "main": "Client.js",
+  "repository": "https://github.com/19UV/websocket_minecraft_protocol.git",
+  "author": "19UV <the19UV@gmail.com>",
+  "license": "MIT"
+}
