@@ -1,1 +1,2 @@
-"" 
+# Websocket Minecraft Protocol
+This is a project intended on creating a node-minecraft-protocol like frontend library. It should (eventually) have full support to Minecraft 1.8. It manages multiplayer by substituting TCP/IP sockets with Websockets (requires a Websockify-like server to be run alongside the original Minecraft server).
